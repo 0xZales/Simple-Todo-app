@@ -1,2 +1,2 @@
 # Simple-Todo-app
-![Alt text](/img.jpg "Optional title")
+![Alt text](/img.png "Optional title")
